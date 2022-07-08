@@ -1,0 +1,53 @@
+h1 {
+    font-size: 50px;
+    font-family: Cambria, serif;
+}
+
+.new-word {
+    visibility: hidden;
+}
+
+.playagain {
+    display: none;
+}
+
+
+/* body {
+                margin: 5px
+            } */
+
+
+/* .enter-field {
+                padding-left: 40rem;
+                padding-top: 17rem;
+                width: 25rem;
+                height: 25rem;
+            } */
+
+#game {
+    margin: 40px;
+    background-color: azure;
+    padding: 16rem;
+    text-align: center;
+}
+
+.input {
+    width: 50%;
+    height: 3%;
+}
+
+#submitanswer {
+    background-color: aqua;
+    font-size: Cambria, serif;
+    font: bold
+}
+
+.playagain {
+    position: relative;
+    left: 280px;
+    top: 30px;
+    bottom: 10px;
+    background-color: rgb(53, 119, 119);
+    font-family: 'Cambria';
+    color: aliceblue;
+}
